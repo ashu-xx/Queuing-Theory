@@ -1,4 +1,4 @@
-# Error COntrol in Relay Network
+# Error Control in Relay Network
 
 The project deals with the study of multi-hop relay
 network architecture that has been introduced in the next
